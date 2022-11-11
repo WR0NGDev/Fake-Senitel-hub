@@ -79,10 +79,10 @@ Mouse.KeyDown:Connect(function(Rejoin)
 end)
 
 getgenv().FORCE_REPEAT = {
-  "";
-	"";
-	"";
-	"";
+  "FORIINDEXRETURNADMININGAME";
+	"AimLockPsycho";
+	"proboy32007";
+	"autofarmaccountgrind";
 }
 
 local function InRadius()
