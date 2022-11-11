@@ -12,7 +12,7 @@ tab:Label(".gg/brE9ayGVAE Memer hub")
 local tab = window:Tab('Aimbot')
 
 tab:Button('SilentAim', function()
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/WR0NGDev/Fake-Senitel-hub/main/Anarchy'))()  
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/WR0NGDev/Fake-Senitel-hub/main/Silent%20Aim'))()  
 end)
 
 tab:Label("x to disable/enable")
